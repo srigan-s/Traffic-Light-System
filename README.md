@@ -1,4 +1,45 @@
-# Traffic Light System
-The project makes a 4-way intersection and a street lamp. Using Arduino (C++) to create functional traffic lights.
+# Traffic Light System 🚦
 
-This project was created on a square cardboard base, which was designed using construction paper to depict pavement and roads. Every detail was meticulously measured and placed to enhance the overall appearance. The traffic lights were crafted from popsicle sticks, straws, LEDs, and electrical wires, with the wires soldered to the LEDs. The wiring for the traffic lights was neatly guided through straws, which acted as poles, anchored in holes made in the cardboard to route the wires underneath. These wires were connected to a breadboard and Arduinos mounted above the board for easy access and thematic consistency. The Arduino code was uploaded to control the traffic lights, simulating a real-life intersection with a 15-second light cycle. A street lamp, placed near the intersection, was made using a yellow LED, a BBQ skewer, and a popsicle stick, programmed to turn on in darkness. Together, these elements form a functional intersection model.
+This project simulates a **4-way traffic light intersection with a street lamp** using Arduino (C++). It demonstrates hardware prototyping, soldering, and embedded programming to mimic a real-world traffic system.
+
+---
+
+## 📸 Project Preview  
+![Traffic Light System](https://github.com/srigan-s/Traffic-Light-System/assets/150014174/4acfb969-5bde-4e85-b44d-6c34490e0a55)
+
+---
+
+## 🛠️ Project Description  
+
+The system was built on a square cardboard base, decorated with construction paper to represent pavement and roads.  
+
+- **Traffic Lights:**  
+  - Constructed from popsicle sticks, straws, LEDs, and electrical wiring.  
+  - Wires were soldered to LEDs and neatly routed through straws, acting as poles.  
+  - Anchored into holes in the cardboard to hide wiring underneath.  
+  - Connected to a breadboard and Arduino boards mounted on top for accessibility.  
+  - Programmed with a **15-second light cycle** to simulate real traffic flow.  
+
+- **Street Lamp:**  
+  - Built using a yellow LED, a BBQ skewer, and a popsicle stick.  
+  - Programmed with a light sensor to automatically **turn on in darkness**.  
+
+Together, these components create a functional and visually realistic intersection model.  
+
+---
+
+## 💻 Technologies Used  
+- **Arduino (C++)** – for traffic light control logic  
+- **Breadboard & Soldering** – for circuit connections  
+- **LEDs & Sensors** – for light indicators and lamp automation  
+
+---
+
+## 🚀 Features  
+- Realistic traffic light cycle timing  
+- Automatic street lamp activation in low-light conditions  
+- Neatly constructed physical prototype with measured design  
+
+---
+
+## 📂 Repository Structure  
