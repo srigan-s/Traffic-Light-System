@@ -5,7 +5,7 @@ This project simulates a **4-way traffic light intersection with a street lamp**
 ---
 
 ## 📸 Project Preview  
-![Traffic Light System](https://github.com/srigan-s/Traffic-Light-System/assets/150014174/4acfb969-5bde-4e85-b44d-6c34490e0a55)
+![Traffic Light System](https://github.com/user-attachments/assets/177bf377-79e9-46cf-8b35-cd04e7f979b1))
 
 ---
 
