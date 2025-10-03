@@ -1,5 +1,5 @@
 # Traffic Light System 🚦
-
+ 
 This project simulates a **4-way traffic light intersection with a street lamp** using Arduino (C++). It demonstrates hardware prototyping, soldering, and embedded programming to mimic a real-world traffic system.
 
 ---
